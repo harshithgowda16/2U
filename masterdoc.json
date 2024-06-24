@@ -1,13 +1,14 @@
 [
-    {
-      "Name": "AWS Forensic lab",
-      "Language": "English",
-      "BaseURL": "https://github.com/harshithgowda16/2U/tree/main",
-      "Files": [
-        {
-          "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/harshithgowda16/2U/main/getting_started.md",
-          "Order": 1
-        }
-      ]
-    }
-  ]
+  {
+    "Name": "AWS Forensic lab",
+    "Language": "English",
+    "BaseURL": "https://github.com/harshithgowda16/2U/tree/main",
+    "Files": [
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/harshithgowda16/2U/main/getting_started.md",
+        "Order": 1
+      }
+    ]
+  }
+]
+      
